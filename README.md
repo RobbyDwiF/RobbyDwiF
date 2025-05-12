@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'am Robby Dwi Firmansyah👋
 
 <!--
 **RobbyDwiF/RobbyDwiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![RobbyDwiF](img/Biru%20Fotosentris%20Programmer%20LinkedIn%20Banner.png)
